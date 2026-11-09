@@ -1,9 +1,9 @@
 <table>
   <tr>
-    <td width="45%" align="center" valign="middle">
+    <td width="50%" align="center" valign="middle">
       <img src="./cool.gif" alt="cool-pixel-art" width="100%" />
     </td>
-    <td width="53%" valign="top">
+    <td width="50%" valign="top">
       <h3>Hey, I'm Khoa.</h3>
       <p>Software Engineering student.</p>
       <p>I'm a FOSS enthusiast who enjoys exploring open-source software and building useful things of my own.</p>
