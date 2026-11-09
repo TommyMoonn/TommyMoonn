@@ -6,7 +6,7 @@
     <td width="50%" valign="middle">
       <p><strong>Hey, I'm Khoa.</strong></p>
       <p>Software Engineering student.</p>
-      <p>I'm a FOSS enthusiast who enjoys exploring open-source software and building useful things of my own.</p>
+      <p>I'm a FOSS enthusiast who enjoys exploring open-source software and building <em>"useful"</em> things of my own.</p>
       <p><em>"A developer's ability is measured by the bugs they get"</em></p>
       <h3>Languages &amp; Frameworks</h3>
       <p>
