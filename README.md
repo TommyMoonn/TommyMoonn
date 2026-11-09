@@ -3,8 +3,8 @@
     <td width="50%" align="center" valign="middle">
       <img src="./cool.gif" alt="cool-pixel-art" width="100%" />
     </td>
-    <td width="50%" valign="top">
-      <h3>Hey, I'm Khoa.</h3>
+    <td width="50%" valign="middle">
+      <p><strong>Hey, I'm Khoa.</strong></p>
       <p>Software Engineering student.</p>
       <p>I'm a FOSS enthusiast who enjoys exploring open-source software and building useful things of my own.</p>
       <p><em>"A developer's ability is measured by the bugs they get"</em></p>
