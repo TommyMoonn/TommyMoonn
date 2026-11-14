@@ -24,7 +24,7 @@
         <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&amp;logo=dotnet&amp;logoColor=white" alt=".NET" />
       </p>
       <h3>Featured projects</h3>
-      <a href="https://github.com/TommyMoonn/archeion"><img src="https://raw.githubusercontent.com/TommyMoonn/archeion/main/docs/assets/archeion-icon.png" alt="Archeion" height="48" /></a>
+      <a href="https://github.com/TommyMoonn/archeion"><img src="https://raw.githubusercontent.com/TommyMoonn/archeion/main/src/assets/brand/archeion-logo-dark.png" alt="Archeion" height="48" /></a>
       <a href="https://github.com/TommyMoonn/apollo"><img src="https://raw.githubusercontent.com/TommyMoonn/apollo/main/assets/apollo-logo.png" alt="Apollo" height="48" /></a>
     </td>
   </tr>
