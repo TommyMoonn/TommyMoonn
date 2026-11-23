@@ -18,7 +18,7 @@
   <path d="M460 0V460" fill="none" stroke="#d8dce8" stroke-width="1" />
 
   <!-- Vertically centered as a single fixed text block. -->
-  <g id="intro" transform="translate(0 -16)">
+  <g id="intro" transform="translate(0 24)">
   <text x="507" y="79" class="small">ABOUT ME</text>
   <path d="M507 107h4v4h-4zM523 107h4v4h-4zM507 111h4v4h-4zM523 111h4v4h-4zM507 115h4v4h-4zM523 115h4v4h-4zM507 119h20v4h-20zM507 123h4v4h-4zM523 123h4v4h-4zM507 127h4v4h-4zM523 127h4v4h-4zM507 131h4v4h-4zM523 131h4v4h-4zM531 107h20v4h-20zM531 111h4v4h-4zM531 115h4v4h-4zM531 119h16v4h-16zM531 123h4v4h-4zM531 127h4v4h-4zM531 131h20v4h-20zM555 107h4v4h-4zM571 107h4v4h-4zM555 111h4v4h-4zM571 111h4v4h-4zM559 115h4v4h-4zM567 115h4v4h-4zM563 119h4v4h-4zM563 123h4v4h-4zM563 127h4v4h-4zM563 131h4v4h-4zM587 127h4v4h-4zM583 131h4v4h-4zM619 107h20v4h-20zM627 111h4v4h-4zM627 115h4v4h-4zM627 119h4v4h-4zM627 123h4v4h-4zM627 127h4v4h-4zM619 131h20v4h-20zM651 107h4v4h-4zM651 111h4v4h-4zM647 115h4v4h-4zM667 107h4v4h-4zM683 107h4v4h-4zM667 111h8v4h-8zM679 111h8v4h-8zM667 115h4v4h-4zM675 115h4v4h-4zM683 115h4v4h-4zM667 119h4v4h-4zM675 119h4v4h-4zM683 119h4v4h-4zM667 123h4v4h-4zM683 123h4v4h-4zM667 127h4v4h-4zM683 127h4v4h-4zM667 131h4v4h-4zM683 131h4v4h-4zM707 107h4v4h-4zM723 107h4v4h-4zM707 111h4v4h-4zM719 111h4v4h-4zM707 115h4v4h-4zM715 115h4v4h-4zM707 119h8v4h-8zM707 123h4v4h-4zM715 123h4v4h-4zM707 127h4v4h-4zM719 127h4v4h-4zM707 131h4v4h-4zM723 131h4v4h-4zM731 107h4v4h-4zM747 107h4v4h-4zM731 111h4v4h-4zM747 111h4v4h-4zM731 115h4v4h-4zM747 115h4v4h-4zM731 119h20v4h-20zM731 123h4v4h-4zM747 123h4v4h-4zM731 127h4v4h-4zM747 127h4v4h-4zM731 131h4v4h-4zM747 131h4v4h-4zM759 107h12v4h-12zM755 111h4v4h-4zM771 111h4v4h-4zM755 115h4v4h-4zM771 115h4v4h-4zM755 119h4v4h-4zM771 119h4v4h-4zM755 123h4v4h-4zM771 123h4v4h-4zM755 127h4v4h-4zM771 127h4v4h-4zM759 131h12v4h-12zM783 107h12v4h-12zM779 111h4v4h-4zM795 111h4v4h-4zM779 115h4v4h-4zM795 115h4v4h-4zM779 119h20v4h-20zM779 123h4v4h-4zM795 123h4v4h-4zM779 127h4v4h-4zM795 127h4v4h-4zM779 131h4v4h-4zM795 131h4v4h-4zM807 127h8v4h-8zM807 131h8v4h-8z" fill="#232938" shape-rendering="crispEdges" />
   <text x="507" y="182" class="role">Software Engineering student.</text>
@@ -27,11 +27,5 @@
   <text x="507" y="275" class="body">and building <tspan font-style="italic">useful</tspan> things of my own.</text>
   <text x="507" y="318" class="note">"A developer's ability is measured</text>
   <text x="507" y="339" class="note">by the bugs they get"</text>
-
-  <path d="M507 360H933" fill="none" stroke="#d6dae5" stroke-width="1" />
-  <text x="507" y="391" class="small">FEATURED PROJECTS</text>
-  <text x="507" y="423" class="project">Archeion</text>
-  <rect x="614" y="410" width="2" height="14" fill="#8a91a3" />
-  <text x="634" y="423" class="project">Apollo</text>
   </g>
 </svg>
