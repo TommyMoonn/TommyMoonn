@@ -24,7 +24,7 @@
   <text x="507" y="182" class="role">Software Engineering student.</text>
   <text x="507" y="225" class="body">I'm a FOSS enthusiast who enjoys</text>
   <text x="507" y="250" class="body">exploring open-source software</text>
-  <text x="507" y="275" class="body">and building useful things of my own.</text>
+  <text x="507" y="275" class="body">and building <tspan font-style="italic">useful</tspan> things of my own.</text>
   <text x="507" y="318" class="note">"A developer's ability is measured</text>
   <text x="507" y="339" class="note">by the bugs they get"</text>
 
